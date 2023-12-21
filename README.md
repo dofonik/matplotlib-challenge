@@ -1,6 +1,8 @@
 # matplotlib-challenge
 Module 5 Challenge - UWA Data Analytics Bootcamp
 
+Note that no specific instruction was given on what to name this repository.
+
 DESCRIPTION:
 Within the Pymaceuticals file there is the pymaceuticals.ipynb which contains the main code, as well as pymaceuticals_starter.ipynb which contains the sample solutions and template provided for this analysis.
 
